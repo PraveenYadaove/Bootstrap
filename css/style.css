@@ -37,3 +37,30 @@
    
     font-weight: 500;
 }
+
+
+.row-statements{
+   
+    padding: 50px 0px 50px 0px;
+    min-height: 400px;
+    font-weight: 500;
+  
+
+}
+
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: #512DA8;
+}
+
+.container{
+    font-weight: 500;
+}
+
+.rows{
+    border-bottom: 1px ;
+}
