@@ -71,3 +71,8 @@ body{
     border-right: 1px solid #ddd;
     padding: 10px;
 }
+
+.card-header{
+    background-color: rgb(142, 83, 209);
+
+}
