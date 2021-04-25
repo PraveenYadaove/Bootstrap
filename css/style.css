@@ -97,4 +97,6 @@ body{
     position: absolute;
     right: 0px;
     bottom: 0px;
+    background-color:#512DA8;
+    color: white;
 }
