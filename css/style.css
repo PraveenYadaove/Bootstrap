@@ -93,4 +93,8 @@ body{
 #smokers{
     margin-left: 0px;
 }
-    
+#carouselButtons{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
